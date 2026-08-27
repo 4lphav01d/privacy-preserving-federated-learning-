@@ -1,0 +1,14 @@
+mode: train
+dataset: mnist
+rounds: 15
+seed: 0
+K: 4
+alpha: 0.5
+lr: 0.1
+momentum: 0.9
+logical_batch: 64
+micro_batch: 8
+local_epochs: 1
+compression: true
+compression_k: 0.1
+target_epsilon: 8

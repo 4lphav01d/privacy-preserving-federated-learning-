@@ -1,0 +1,7 @@
+mode: inversion
+dataset: mnist
+seed: 0
+attack_steps: 300
+attack_lr: 0.1
+attack_sigma: 1.0
+capture: results/artifacts/capture_nonprivate.pt
