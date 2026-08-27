@@ -1,0 +1,24 @@
+# Environments & caches
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Datasets (auto-downloaded by src/data.py)
+data/
+
+# Results: keep measured evidence (results.jsonl, *_table.csv, spotcheck.jsonl,
+# *.meta.json, status files); ignore bulky binaries and logs
+results/**/*.log
+results/log_*.txt
+results/mem_probe_run.log
+results/campaign.log
+results/rounds_*.jsonl
+results/artifacts/*.pt
+results/artifacts/*.pkl
+
+# OS
+.DS_Store
+
+# Local archives (audit backup, not for the repo)
+*.zip
