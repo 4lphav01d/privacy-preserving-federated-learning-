@@ -123,3 +123,10 @@ All numbers reported in the thesis chapters are measured, stored in
 `results/results.jsonl` (123 records), and summarised by `analyse.py` into the CSV
 tables. A sequential spot-check re-run of `mnist_comp_base` reproduced the lane result
 bit-for-bit (documented in Chapter 4 §4.5).
+
+## For AI coding agents
+
+This repository follows the [AGENTS.md](https://agents.md) convention. If you are an AI
+assistant (opencode, Claude Code, Cursor, Codex, …) working in this repo, read
+**[AGENTS.md](AGENTS.md)** first — it documents the environment, verification commands,
+and reproducibility invariants that must not be broken.
