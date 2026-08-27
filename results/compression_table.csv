@@ -1,0 +1,7 @@
+dataset,condition,avg_uplink_mb,final_accuracy
+mnist,uncompressed,9.969,0.9904
+mnist,compressed (k=10%) eps=2,0.753,0.6486
+mnist,compressed (k=10%) eps=8,0.753,0.7388
+cifar10,uncompressed,26.793,0.4051
+cifar10,compressed (k=10%) eps=2,2.015,0.0888
+cifar10,compressed (k=10%) eps=8,2.015,0.0901

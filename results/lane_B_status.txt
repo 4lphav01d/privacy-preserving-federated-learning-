@@ -1,0 +1,8 @@
+lane B started Tue Aug 25 16:49:11 WAT 2026
+START cifar_comp_base 16:49:11
+DONE cifar_comp_base
+START cifar_comp_eps2 17:30:39
+DONE cifar_comp_eps2
+START attack_capture_dp 18:24:44
+DONE attack_capture_dp
+lane B finished Tue Aug 25 18:47:14 WAT 2026

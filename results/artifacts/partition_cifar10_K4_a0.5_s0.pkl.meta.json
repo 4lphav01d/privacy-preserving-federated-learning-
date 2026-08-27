@@ -1,0 +1,14 @@
+{
+  "dataset": "cifar10",
+  "K": 4,
+  "alpha": 0.5,
+  "seed": 0,
+  "hash": "20c004dfeafeec11",
+  "sizes": [
+    10717,
+    12531,
+    22771,
+    3981
+  ],
+  "cache_hit": false
+}

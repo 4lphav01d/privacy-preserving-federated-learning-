@@ -1,0 +1,8 @@
+lane D started Tue Aug 25 18:28:35 WAT 2026
+START cifar_tuned_eps2 18:28:36
+DONE cifar_tuned_eps2
+START cifar_tuned_eps1 19:34:36
+DONE cifar_tuned_eps1
+START cifar_tuned_eps0.5 20:27:58
+DONE cifar_tuned_eps0.5
+lane D finished Tue Aug 25 21:11:29 WAT 2026

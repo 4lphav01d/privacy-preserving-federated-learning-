@@ -1,0 +1,18 @@
+dataset,epsilon,lr,final_accuracy,wall_clock_s
+mnist,∞ (non-private),0.1,0.9904,422
+mnist,8,0.1,0.8306,772
+mnist,4,0.1,0.8091,1493
+mnist,2,0.1,0.7990,833
+mnist,1,0.1,0.7700,689
+mnist,0.5,0.1,0.7029,807
+cifar10,∞ (non-private),0.1,0.4051,2542
+cifar10,8,0.1,0.0985,4416
+cifar10,4,0.02,0.1041,3324
+cifar10,2,0.02,0.2202,3947
+cifar10,1,0.02,0.2477,3191
+cifar10,0.5,0.02,0.2385,2596
+cifar10_tuned,8,0.02,0.1382,4120
+cifar10_tuned,4,0.02,0.1041,3324
+cifar10_tuned,2,0.02,0.2202,3947
+cifar10_tuned,1,0.02,0.2477,3191
+cifar10_tuned,0.5,0.02,0.2385,2596

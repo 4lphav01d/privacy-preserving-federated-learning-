@@ -1,0 +1,14 @@
+{
+  "dataset": "mnist",
+  "K": 4,
+  "alpha": 0.5,
+  "seed": 0,
+  "hash": "ac33697506cc90e8",
+  "sizes": [
+    20814,
+    9764,
+    15413,
+    14009
+  ],
+  "cache_hit": false
+}

@@ -1,0 +1,20 @@
+campaign started Tue Aug 25 11:14:48 WAT 2026
+START mnist_base 11:14:48
+DONE mnist_base 11:20:15
+START mnist_eps0.5 11:20:15
+DONE mnist_eps0.5 11:33:54
+START mnist_eps1 11:33:54
+DONE mnist_eps1 11:45:32
+START mnist_eps4 11:45:32
+DONE mnist_eps4 12:10:38
+START mnist_eps8 12:10:38
+DONE mnist_eps8 12:23:36
+START cifar_base 12:23:36
+DONE cifar_base 13:06:05
+START cifar_eps0.5 13:06:05
+DONE cifar_eps0.5 14:09:03
+START cifar_eps1 14:09:03
+DONE cifar_eps1 15:32:04
+START cifar_eps2 15:32:04
+DONE cifar_eps2 16:16:29
+START cifar_eps4 16:16:29

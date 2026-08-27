@@ -1,0 +1,8 @@
+lane C started Tue Aug 25 16:49:11 WAT 2026
+START cifar_eps8 16:49:11
+DONE cifar_eps8
+START cifar_comp_eps8 18:03:01
+DONE cifar_comp_eps8
+START inversion 19:13:43
+DONE inversion
+lane C finished Tue Aug 25 21:18:09 WAT 2026

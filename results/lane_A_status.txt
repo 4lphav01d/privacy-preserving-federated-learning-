@@ -1,0 +1,17 @@
+lane A started Tue Aug 25 16:49:11 WAT 2026
+START mnist_comp_base 16:49:11
+DONE mnist_comp_base
+START mnist_comp_eps2 17:00:17
+DONE mnist_comp_eps2
+START mnist_comp_eps8 17:23:59
+DONE mnist_comp_eps8
+START attack_capture_nonprivate 17:46:10
+lane A finished Tue Aug 25 17:54:09 WAT 2026
+lane A started Tue Aug 25 18:28:35 WAT 2026
+START attack_capture_nonprivate 18:28:36
+DONE attack_capture_nonprivate
+START cifar_tuned_eps8 18:38:34
+DONE cifar_tuned_eps8
+START cifar_tuned_eps4 19:47:29
+DONE cifar_tuned_eps4
+lane A finished Tue Aug 25 20:43:01 WAT 2026
